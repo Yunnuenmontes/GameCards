@@ -20,7 +20,7 @@ console.log(ctx2)
       ctx2.drawImage(question,50,0,400,400)
       resolve();
     })
-    question.src="/assets/miniGame/QM.png";
+    question.src="/assets/miniGame/qm.png";
   })
 }
 function init(){
