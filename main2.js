@@ -5,7 +5,7 @@ let Game={
   lastGame:null,
   index:null,
   selected:null
-}
+};
 let tapa,question;
 let canvas,ctx,raf,ctx2;
 let audioElement;
